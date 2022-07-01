@@ -1,0 +1,4 @@
+# Created at 2022-07-01T20:31:04.472
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Ambika\selinium\Opencartv123\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

@@ -1,0 +1,28 @@
+20:31:53.522 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+20:31:53.533 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+20:31:53.534 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+20:31:53.940 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+20:31:54.036 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+20:31:54.449 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+20:31:54.546 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+20:31:54.623 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+20:31:55.000 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+20:32:05.063 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+20:32:05.070 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+20:32:05.071 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+20:32:05.480 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+20:32:05.551 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+20:32:05.955 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+20:32:06.020 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+20:32:06.074 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+20:32:06.439 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+20:32:16.494 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+20:32:16.495 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+20:32:16.921 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+20:32:16.995 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+20:32:17.412 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+20:32:17.474 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+20:32:17.529 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+20:32:17.908 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+20:32:27.913 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+20:32:27.915 [AsyncHttpClient-1-2] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
